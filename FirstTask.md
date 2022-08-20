@@ -14,9 +14,10 @@
 ### 2.1) Metaspace:
 - JvmComprehension.class
 - system classes
-### 2.2) Head:
+### 2.2) Heap:
 - Object
 - Integer
+- String
 ### 2.3) Stack + Garbage Collection (GC)
 - 1 создание фрейма main()
     - 1.1) int i = 1
